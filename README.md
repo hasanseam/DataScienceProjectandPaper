@@ -15,3 +15,4 @@ can our model be?
 We use popular python libraries and NLP techniques to build our model. 
 
 Read the full paper from the uploaded pdf. The python file contains all the work. 
+Here is the link from datalore https://datalore.jetbrains.com/notebook/rkX0Q5Vcetsc7Q2z4s0DW4/iGsTnB1jOMDaydqPshn0y6
